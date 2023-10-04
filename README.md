@@ -24,13 +24,13 @@ Note, the above is guidance only.  Feel free to highlight where you feel you hav
 5. Deadline is Wednesday the 1st of November 2023, 11am.
 6. Non response to issues with submission or non response to questions will result in 10% lost for each incident
 7. You may be asked to attend an interview to verify your work, the likelihood of this increases if:
-  1. You are not attending lab/lectures
-  2. Your labs repository is way behind
-  3. You do not commit over time
-  4. Suspicion of plagiarism
-  5. Particularly weak submission 
+    1. You are not attending lab/lectures
+    2. Your labs repository is way behind
+    3. You do not commit over time
+    4. Suspicion of plagiarism
+    5. Particularly weak submission 
 8. The use of generative AI is not permitted to generate source code or documentation in this assignment (copilot, chatgpt, or otherwise, locally or hosted)
-  1. Generative AI is an excellent tool but you risk not learning fundamental skills by relying on it too soon
+    1. Generative AI is an excellent tool but you risk not learning fundamental skills by relying on it too soon
 9. Usage of any published source should be referenced and documented via comments, you may be asked to explain inner workings of such usages
 10. Feel free to have a separate docs directory within the repository e.g. docs/gameplay & docs/modding, docs in markdown only and rendering via github 
 11. Remember this is 30%, you could go overboard, feel free to highlight where you paid particular attention to quality over quantity or vice versa
