@@ -4,7 +4,7 @@
 
 Provided this Tic Tac Toe game in Lua, improve, augment and add in the following categories:
 
-|               | **Gameplay Mechanics**                                                             | **Modding Support**                                                                                         | **User Interface (UI)**                                           | **Code Quality & Extensibility**                               | **Documentation and Distribution **                                            |
+|               | **Gameplay Mechanics**                                                             | **Modding Support**                                                                                         | **User Interface (UI)**                                           | **Code Quality & Extensibility**                               | **Documentation and Distribution**                                             |
 | ------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | **Starter**   | Basic rules implemented, games ends in draw or win                                 | Modding possible but lacks docs. Minimal mods available.                                                    | Functional but lacks user-friendliness.                           | Basic codebase structure.                                      | Limited README                                                                 |
 | **Basic**     | Customizable Grid size (natively selectable, not mod)                              | Basic modding documentation. More mods available.                                                           | Clear and intuitive CLI interface.                                | Reasonably organized code. Mods external to source             | README to guide a developer                                                    |
@@ -90,12 +90,12 @@ Use Markdown table extensions for visual studio code to help.
 
 Each entry should be kept succinct.  Point to documentation where required. A table that does not render correctly will result in lost marks
 
-|               | **Gameplay Mechanics** | **Modding Support** | **User Interface (UI)** | **Code Quality & Extensibility** | **Community & Support** |
-| ------------- | ---------------------- | ------------------- | ----------------------- | -------------------------------- | ----------------------- |
-| **Starter**   |                        |                     |                         |                                  |                         |
-| **Basic**     |                        |                     |                         |                                  |                         |
-| **Good**      |                        |                     |                         |                                  |                         |
-| **Excellent** |                        |                     |                         |                                  |                         |
+|               | **Gameplay Mechanics** | **Modding Support** | **User Interface (UI)** | **Code Quality & Extensibility** | **Documentation and Distribution** |
+| ------------- | ---------------------- | ------------------- | ----------------------- | -------------------------------- | ---------------------------------- |
+| **Starter**   |                        |                     |                         |                                  |                                    |
+| **Basic**     |                        |                     |                         |                                  |                                    |
+| **Good**      |                        |                     |                         |                                  |                                    |
+| **Excellent** |                        |                     |                         |                                  |                                    |
 
 
 ### Video Link
